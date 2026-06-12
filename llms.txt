@@ -1,0 +1,12 @@
+# Zona aprender ia 668
+> Portal de estudio de cocina ubicado en Valencia, Valencia.
+
+## Contenido del sitio
+- [Inicio](/index.html): Resumen de publicaciones.
+- [Sobre nosotros](/about.html): Quiénes somos y qué hacemos.
+- [Contacto](/contact.html): Ubicación y formulario.
+## Publicaciones
+- [Guía práctica de automatización para startups](/guia-practica-de-automatizacion-para-startups.html)
+- [Cómo elegir la mejor parrilla de contacto para su cocina](/como-elegir-la-mejor-parrilla-de-contacto-para-su-cocina.html)
+- [Guía práctica de suplementación para el bienestar diario](/guia-practica-de-suplementacion-para-el-bienestar-diario.html)
+- [Claves para optimizar la productividad de equipos remotos](/claves-para-optimizar-la-productividad-de-equipos-remotos.html)
